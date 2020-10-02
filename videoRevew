@@ -1,0 +1,9 @@
+
+def stringRep():
+    text_1 = "go to the store"
+    text_2 = "park the car"
+    print(text_1.replace("s",""))
+    print(text_2.replace("r", "h"))
+
+
+stringRep
