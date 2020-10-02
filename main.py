@@ -14,6 +14,7 @@ def main():
                  arcade.color.BRITISH_RACING_GREEN]
     arcade.open_window(700, 700, "string split demo")
 
+
     arcade.start_render()
     for line in shapes_data:
         data = line.split(",")
